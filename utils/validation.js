@@ -1,0 +1,3 @@
+// const validateSignUpData = (req)=>{
+//     const
+// }
